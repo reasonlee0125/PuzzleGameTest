@@ -1,4 +1,4 @@
 package com.chen.ui;
 
-public class GameJFrame {
+public class GameJFrame extends Test{
 }
